@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .navbar li {
-  position: relative;
+  position: absolute;
 }
 
 .navbar a, .navbar a:focus {
