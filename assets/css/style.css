@@ -73,6 +73,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: all 0.5s;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  position: absolute;
 }
 
 #header .logo h1 {
@@ -106,7 +107,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 */
 .navbar {
   padding: 0;
-  position: absolute;
 }
 
 .navbar ul {
