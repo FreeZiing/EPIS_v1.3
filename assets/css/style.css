@@ -1182,15 +1182,3 @@ section {
     padding: 3px 0;
   }
 }
-.videoWrap {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-}
-.videoWrap iframe{
-  margin-top: 80px;
-  width: 1800px;
-  height: 870px;
-  
-}
