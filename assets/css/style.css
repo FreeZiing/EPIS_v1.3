@@ -115,9 +115,12 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   list-style: none;
   align-items: center;
 }
+.navbar-fixed-top {
+    position: absolute;
+}
 
 .navbar li {
-  position: absolute;
+  position: relative;
 }
 
 .navbar a, .navbar a:focus {
